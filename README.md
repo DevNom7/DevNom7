@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Nom, a passionate computer science student and developer.
-- 🧠I’m interested in building innovative software solutions, particularly in automation, machine learning, and game development.
-- 📖 I’m currently learning advanced C++ concepts, practicing Java, and continually expanding my knowledge of Python for data science, while exploring new technologies in AI and machine learning.
-- 😎 I’m looking to collaborate on open-source projects, algorithm challenges, and game development.
-- 📫 How to reach me: devnom7@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/nlindsay14985).
-- ⚡ Fun fact: I love bringing ideas to life by building interactive C++ games, and I’m always up for a good challenge—whether it’s solving complex problems or finding creative ways to make code more fun!
+👋 Hi, I’m Nom, a driven computer science student and aspiring full-stack developer.
+🚀 I’m passionate about building smart, impactful software with a focus on automation, AI, and intuitive user experiences.
+📱 I’m currently learning Dart and Flutter to create cross-platform mobile apps, while sharpening my skills in C++, Java, and Python for data science and machine learning.
+🕹️ I enjoy designing and developing interactive C++ games and exploring creative coding challenges.
+🤝 I’m open to collaborating on open-source projects, mobile apps, and algorithm-based problem solving.
+📫 Let’s connect! Reach me at devnom7@gmail.com or on LinkedIn.
+⚡ Fun fact: I love turning bold ideas into reality — whether it's a sleek app interface or a game with real personality.
