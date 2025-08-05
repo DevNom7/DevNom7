@@ -1,13 +1,18 @@
-👋 Hi, I’m Nom, a driven computer science student and aspiring full-stack developer.
+🎯 **Driven CS student** | 🌐 **Aspiring Full-Stack Developer** | 🤖 **AI & Automation Enthusiast**
 
-🚀 I’m passionate about building smart, impactful software with a focus on automation, AI, and intuitive user experiences.
+---
 
-📱 I’m currently learning Dart and Flutter to create cross-platform mobile apps, while sharpening my skills in C++, Java, and Python for data science and machine learning.
+🚀 I’m passionate about building **smart, meaningful software** , blending automation, intuitive UI, and emerging tech like AI & ML.
 
-🕹️ I enjoy designing and developing interactive C++ games and exploring creative coding challenges.
+📱 Currently focused on **Dart & Flutter** to build sleek, cross-platform mobile apps.  
+💻 Also sharpening my skills in **C++, Java, and Python**, especially for **data science** and **machine learning** projects.
 
-🤝 I’m open to collaborating on open-source projects, mobile apps, and algorithm-based problem solving.
+🎮 I love building **interactive C++ games**, tackling **algorithmic challenges**, and pushing creative boundaries through code.
 
-📫 Let’s connect! Reach me at devnom7@gmail.com or on LinkedIn.
+🤝 Open to collaborating on:
+- Mobile apps (Flutter, native)
+- Open-source tools
+- Algorithm-heavy projects
+- AI/ML-powered features
 
-⚡ Fun fact: I love turning bold ideas into reality — whether it's a sleek app interface or a game with real personality.
+🧠 Always learning. Always building. Let’s make something amazing.
