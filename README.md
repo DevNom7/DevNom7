@@ -15,4 +15,4 @@
 - Algorithm-heavy projects
 - AI/ML-powered features
 
-🧠 Always learning. Always building. Let’s make something amazing.
+🧠 Always learning. Always building.
