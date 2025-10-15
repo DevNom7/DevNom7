@@ -1,18 +1,16 @@
-🎯 **Driven CS student** | 🌐 **Aspiring Full-Stack Developer** | 🤖 **AI & Automation Enthusiast**
+💻 Python Backend Developer | 📱 Flutter/Dart Engineer | 🤖 AI & Automation Builder
 
----
+⸻
 
-🚀 I’m passionate about building **smart, meaningful software** , blending automation, intuitive UI, and emerging tech like AI & ML.
+🚀 I build clean, scalable, and user-driven apps that merge design, automation, and intelligence. My focus is on turning complex ideas into simple, beautiful, and functional software.
 
-📱 Currently focused on **Dart & Flutter** to build sleek, cross-platform mobile apps.  
-💻 Also sharpening my skills in **C++, Java, and Python**, especially for **data science** and **machine learning** projects.
+⚙️ Backend: Python (FastAPI, Flask), REST APIs, data modeling, and automation tools
+📱 Frontend: Dart & Flutter — sleek, adaptive mobile UIs that feel natural across platforms
+🧠 Emerging Tech: Integrating AI/ML, automation, and cloud-based architecture to make apps smarter
 
-🎮 I love building **interactive C++ games**, tackling **algorithmic challenges**, and pushing creative boundaries through code.
+🌍  Open to collaborating on:
+	•	Full-stack or mobile app projects
+	•	Backend systems & API design
+	•	AI-powered features or tools
 
-🤝 Open to collaborating on:
-- Mobile apps (Flutter, native)
-- Open-source tools
-- Algorithm-heavy projects
-- AI/ML-powered features
-
-🧠 Always learning. Always building.
+🔥 Always learning. Always shipping. Always improving 💯
