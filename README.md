@@ -1,53 +1,58 @@
-# 😎 What's up, I’m Naim
+# 😎 What's up, I'm Naim
 
-**Go Backend Engineer | APIs & Systems**
+**Software Engineer | Python · Flutter · APIs & Systems**
 
-I build **clean, reliable backend systems in Go**, with a focus on API design, data modeling, and separation of concerns. I value clarity over cleverness and aim to build systems that are easy to reason about, test, and evolve.
+I build backend systems that solve real problems —
+from IoT sensor pipelines to AI-powered automation
+to full-stack mobile apps shipped to production.
 
 ---
 
-## ⚙️ Primary Focus: Go Backend
+## ⚙️ What I Actually Build
 
-- Go services & REST APIs  
-- Data modeling, validation, and error handling  
-- Concurrency fundamentals & async workflows  
-- Clean architecture and modular design  
+- Python backends & REST APIs
+- Flutter mobile apps (2 live on App Store)
+- IoT systems with Raspberry Pi & hardware integration
+- AI automation pipelines (Gemini, Claude, GPT, Ollama)
+- System integrations connecting APIs & data sources
+- Full stack web apps with Next.js
 
-I optimize for software that holds up under change,  not just code that works once.
+I optimize for software that works in production,
+not just code that passes a test.
 
 ---
 
 ## 🧠 How I Work
 
-- Think in terms of **system boundaries, data flow, and failure modes**
-- Design **boring, explicit, predictable APIs**
+- Think in terms of **system boundaries, data flow,
+  and failure modes**
+- Design **explicit, predictable APIs**
 - Comfortable working from **ambiguous requirements**
-- Treat debugging and reasoning as core engineering skills
-- Use AI and automation as **productivity tools**, not shortcuts
-- Take ownership end-to-end, from design to behavior in production
+- Treat debugging and reasoning as core skills
+- Use AI as a **productivity tool**, not a shortcut
+- Take ownership end-to-end — from design to
+  behavior in production
 
 ---
 
-## 🛠 Production & Collaboration Signals
+## 🛠 Production Signals
 
-- **AWS**: EC2, S3, basic IAM, deployments  
-- **Databases**: MongoDB, SQL fundamentals (Postgres/MySQL)  
-- **Tooling**: Git, GitHub, Postman  
-- **Workflow**: Jira, ticket-based development, code reviews  
-
----
-
-## 🎓 Academic & Supporting Experience
-
-This GitHub includes **public school and learning projects**, treated as engineering exercises rather than assignments.
-
-**Languages**: Go (primary), Python, Java, C++, Kotlin, JavaScript (Node.js)  
-**Concepts**: REST APIs, MVC, databases, refactoring, testing, specifications  
+- **Backend**: Python, FastAPI, Flask
+- **Mobile**: Flutter / Dart (App Store shipped)
+- **Web**: Next.js / React
+- **IoT**: Raspberry Pi, GPIO, I2C, UART, sensors
+- **Databases**: PostgreSQL, MongoDB, MySQL, Supabase
+- **Infra**: AWS (EC2, S3, Route53), Docker, CI/CD
+- **Integrations**: REST APIs, Webhooks, Edge Functions
+- **AI**: Gemini, Claude, GPT, Ollama (local LLMs)
+- **Tooling**: Git, Postman, Figma, Google Antigravity
 
 ---
 
 ## 🚀 Current Direction
 
-Focused on **Go backend and systems-oriented roles** involving APIs, services, and infrastructure-adjacent work.
+Building systems that connect hardware,
+software, and data — APIs, integrations,
+and automation that solve real operational problems.
 
 **Always learning. Always building.**
